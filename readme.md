@@ -2,7 +2,7 @@
 A dataset that contains general data from my garmin connect account. Starting from around 2016 and up to 2022.
 As of now it is Version 1.0.0 and follows the convention of [Semantic Versioning, 2022](https://semver.org/).
 The dataset contains data about blood pressure, sleep, stress, steps walked and more. As of now it only contains 
-the fit files and working on a solution to convert it to other formats.
+the fit files and working on a solution to convert it into other readable formats.
 
 
 ## Content
@@ -30,5 +30,6 @@ The structure of the subdirectories in the ***dataset*** directory is as follows
 ## Footnotes
 Copyright 2022, Kent vejrup Madsen
 
-Created At: 2022, 07, 12
-Updated At: 2022, 07, 12
+* [MIT License](license.md)
+* Created At: 2022, 07, 12
+* Updated At: 2022, 07, 12
