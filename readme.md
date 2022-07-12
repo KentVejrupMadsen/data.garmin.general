@@ -6,11 +6,21 @@ the fit files and working on a solution to convert it to other formats.
 
 
 ## Content
-1. [DataSet](dataset/readme.md)
-2. [License](License.md)
-3. [Scripts](scripts/readme.md)
+1. [Changelog](changelog.md)
+2. [DataSet](dataset/readme.md)
+3. [License](License.md)
+4. [Scripts](scripts/readme.md)
 
 ## Structure of dataset
+The structure of the subdirectories in the ***dataset*** directory is as follows.
+
+1. Year ( *integer* )
+
+    2. Month ( *integer* )
+
+        3. Day ( *integer* )
+
+            4. Fit files.
 
 
 ## Cover
