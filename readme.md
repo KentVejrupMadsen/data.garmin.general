@@ -8,8 +8,9 @@ the fit files and working on a solution to convert it into other readable format
 ## Content
 1. [Changelog](changelog.md)
 2. [DataSet](dataset/readme.md)
-3. [License](License.md)
-4. [Scripts](scripts/readme.md)
+3. [License for Source code](sourcecode_license.md)
+4. [Attribution 4.0 International, for dataset](license.md)
+5. [Scripts](scripts/readme.md)
 
 ## Structure of dataset
 The structure of the subdirectories in the ***dataset*** directory is as follows.
@@ -30,6 +31,8 @@ The structure of the subdirectories in the ***dataset*** directory is as follows
 ## Footnotes
 Copyright 2022, Kent vejrup Madsen
 
-* [MIT License](license.md)
+* [MIT License, for Source code](sourcecode_license.md)
+* [Attribution 4.0 International, for dataset](license.md)
+
 * Created At: 2022, 07, 12
 * Updated At: 2022, 07, 12
